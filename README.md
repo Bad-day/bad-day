@@ -15,6 +15,8 @@ Plaftforms
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=badday)](https://solved.ac/badday)<br/>
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bad-day&langs_count=8)](https://github.com/bad-day/github-readme-stats)
+
 
 <!--
 **Bad-day/bad-day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
