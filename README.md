@@ -1,4 +1,6 @@
 ### Hi there 👋
+Tech Stack
+Plaftforms
 <div align="center">
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
 	
@@ -6,6 +8,9 @@
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={https://github.com/Bad-day})](https://solved.ac/{https://github.com/Bad-day})
 
 
 <!--
