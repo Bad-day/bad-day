@@ -15,8 +15,9 @@ Plaftforms
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=badday)](https://solved.ac/badday)<br/>
 
-
+✏️ Study log
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bad-day&langs_count=8)](https://github.com/bad-day/github-readme-stats)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bad-day&show_icons=true&theme=radical)
 
