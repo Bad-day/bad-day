@@ -1,13 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BadDay&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
-### Hi there 👋
 <div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BadDay&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
+</br></br>
+### Hi there 👋
+
 Stack</br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-
 <img src="https://img.shields.io/badge/MIT Appinventor-3DDC84?style=flat&logo=android&logoColor=white" />
 </br></br>
-Current Studying</br>
 
+Current Studying ✏️ </br>
 <img src="https://img.shields.io/badge/Yolov8-00FFFF?style=flat&logo=yolo&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
@@ -19,14 +21,7 @@ Current Studying</br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=badday)](https://solved.ac/badday)<br/>
 
-</br>
-✏️ Study log
-</br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bad-day&langs_count=8)](https://github.com/bad-day/github-readme-stats)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bad-day&show_icons=true&theme=radical)
 
 </div>
 <!--
