@@ -8,7 +8,7 @@ Plaftforms
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yoon828990)](https://solved.ac/yoon828990)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=badday)](https://solved.ac/badday)<br/>
 
 
 
