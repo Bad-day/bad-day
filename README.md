@@ -1,27 +1,34 @@
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=BadDay&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 ### Hi there 👋
-Tech Stack
-Plaftforms
 <div align="center">
-	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=python&logoColor=white"/>
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
+Stack</br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 
-![header](https://bad-day.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+<img src="https://img.shields.io/badge/MIT Appinventor-3DDC84?style=flat&logo=android&logoColor=white" />
+</br></br>
+Current Studying</br>
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=badday)](https://solved.ac/badday)
+<img src="https://img.shields.io/badge/Yolov8-00FFFF?style=flat&logo=yolo&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
+</br>
+
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/oracle-F80000?style=flat&logo=oracle&logoColor=white" />
+</br></br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=badday)](https://solved.ac/badday)<br/>
 
+</br>
 ✏️ Study log
+</br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bad-day&langs_count=8)](https://github.com/bad-day/github-readme-stats)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bad-day&show_icons=true&theme=radical)
 
-
+</div>
 <!--
 **Bad-day/bad-day** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
