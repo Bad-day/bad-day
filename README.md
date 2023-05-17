@@ -10,7 +10,7 @@ Plaftforms
 </div>
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={https://github.com/Bad-day})](https://solved.ac/{https://github.com/Bad-day})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj={https://github.com/Bad-day})](https://solved.ac/{https://solved.ac/profile/badday})
 
 
 <!--
