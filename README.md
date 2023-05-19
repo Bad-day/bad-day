@@ -6,7 +6,9 @@
 
 Stack</br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/MIT Appinventor-3DDC84?style=flat&logo=android&logoColor=white" />
+<img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
+<img src="https://img.shields.io/badge/Appinventor-3DDC84?style=flat&logo=android&logoColor=white" />
+
 </br></br>
 
 Current Studying ✏️ </br>
