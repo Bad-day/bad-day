@@ -4,10 +4,14 @@
 </br></br>
 ### Hi there 👋
 
-:hammer: Stack  FrameWork </br>
+:hammer: Stack, FrameWork </br>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/MSSQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white" />
 <img src="https://img.shields.io/badge/Appinventor-3DDC84?style=flat&logo=android&logoColor=white" />
+</br>
+<img src="https://img.shields.io/badge/Github-181717?style=flat&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/anaconda-44A833?style=flat&logo=anaconda&logoColor=white" />
 
 </br></br>
 
